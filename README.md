@@ -100,13 +100,22 @@ konularında kapsamlı bir gelişim süreci sunar.
 - Quiz, ödev, mini sınavlarla pekiştirme
 ---
 
-> 🎓 Not: Kurs ilerleyişi 100 günlük bir plana göre yapılandırılmıştır. Her gün, bir veya birkaç ders, quiz veya proje uygulaması içerir.
-
----
 
 ## 🧪 Bu Reponun İçeriği
+Bu depo, her günün içeriğini doğrudan .ipynb formatında barındırmaktadır. İçerikler Google Colab ortamında hazırlanmış ve günlük olarak GitHub'a aktarılmıştır.
+| Gün | Dosya | Konu |
+|-----|-------|------|
+| 1   | [Gün_01.ipynb](Gün_01.ipynb) | Bilgisayarların çalışma prensibi, sayı sistemleri, değişkenlere giriş|
+| 2   | [Gün_02.ipynb](Gün_02.ipynb) | Veri Tipleri (sayı, int, float, string vb.) |
 
-📁 `Day-XX`: Her günün içeriğine ait Python kodları ve açıklamalı notlar  
+📌 Her gün yeni .ipynb dosyası eklendikçe tablo güncellenecektir.
+
+
+
+
+
+
+
 📁 `Projects`: Dönemsel olarak geliştirilen makine öğrenmesi projeleri  
 📁 `Datasets`: Uygulamalarda kullanılan örnek veri setleri  
 📄 `README.md`: Kurs ve repo hakkında genel bilgi
@@ -115,7 +124,7 @@ konularında kapsamlı bir gelişim süreci sunar.
 
 ## 🚀 Hedef
 
-100 günün sonunda veri bilimi ve makine öğrenmesi konularına güçlü bir temel oluşturmak ve kendi projelerinizi geliştirecek bilgi düzeyine ulaşmak.
+100 günün sonunda veri bilimi ve makine öğrenmesi konularında sağlam bir temel oluşturmak, çeşitli projeler geliştirerek bilgi düzeyimi arttırmak ve sektöre güçlü bir başlangıç yapmak.
 
 ---
 
