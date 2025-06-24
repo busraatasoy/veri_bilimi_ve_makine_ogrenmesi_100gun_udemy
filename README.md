@@ -105,8 +105,9 @@ konularında kapsamlı bir gelişim süreci sunar.
 Bu depo, her günün içeriğini doğrudan .ipynb formatında barındırmaktadır. İçerikler Google Colab ortamında hazırlanmış ve günlük olarak GitHub'a aktarılmıştır.
 | Gün | Dosya | Konu |
 |-----|-------|------|
-| 1   | [Gün_01.ipynb](Gün_01.ipynb) | Bilgisayarların çalışma prensibi, sayı sistemleri, değişkenlere giriş|
-| 2   | [Gün_02.ipynb](Gün_02.ipynb) | Veri Tipleri (sayı, int, float, string vb.) |
+| 1   | [Gun_01.ipynb](Gün_01.ipynb) | Bilgisayarların çalışma prensibi, sayı sistemleri, değişkenlere giriş|
+| 2   | [Gun_02.ipynb](Gün_02.ipynb) | Veri Tipleri (sayı, int, float, string vb.) |
+| 3   | [Gun_03.ipynb](Gün_03.ipynb) | Veri Yapıları (index, slicing, liste, tip dönüşümleri) |
 
 📌 Her gün yeni .ipynb dosyası eklendikçe tablo güncellenecektir.
 
