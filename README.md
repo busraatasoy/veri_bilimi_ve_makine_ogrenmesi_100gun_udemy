@@ -102,27 +102,25 @@ konularında kapsamlı bir gelişim süreci sunar.
 
 
 ## 🧪 Bu Reponun İçeriği
-Bu depo, her günün içeriğini doğrudan .ipynb formatında barındırmaktadır. İçerikler Google Colab ortamında hazırlanmış ve günlük olarak GitHub'a aktarılmıştır.
+- 📄 `README.md`: Kurs ve repo hakkında genel bilgi
+- 📄 `Gun_XX.ipynb`: Günlük notlar ve kod bilgisi
+- 📁 `Projects`: Dönemsel olarak geliştirilen makine öğrenmesi projeleri 
+- 📁 `Datasets`: Uygulamalarda kullanılan örnek veri setleri
+- İçerikler Google Colab ortamında hazırlanmış ve günlük olarak .ipynb formatında GitHub'a aktarılmıştır.
+  
 | Gün | Dosya | Konu |
 |-----|-------|------|
-| 1   | [Gun_01.ipynb](Gun_01.ipynb) | Bilgisayarların çalışma prensibi, sayı sistemleri, değişkenlere giriş|
-| 2   | [Gun_02.ipynb](Gun_02.ipynb) | Veri Tipleri (sayı, int, float, string vb.) |
-| 3   | [Gun_03.ipynb](Gun_03.ipynb) | Veri Yapıları (index, slicing, liste, tip dönüşümleri) |
-| 4   | [Gun_04.ipynb](Gun_04.ipynb) | Sözlük, set, tuple, bool |
+| 1   | [Gün-01](Gun_01.ipynb) | Bilgisayarların çalışma prensibi, sayı sistemleri, değişkenlere giriş|
+| 2   | [Gün-02](Gun_02.ipynb) | Veri Tipleri (sayı, int, float, string vb.) |
+| 3   | [Gün-03](Gun_03.ipynb) | Veri Yapıları (index, slicing, liste, tip dönüşümleri) |
+| 4   | [Gün_04](Gun_04.ipynb) | Sözlük, set, tuple, bool |
+| 5   | [Gün-05](Gun_05.ipynb) | 10 sorudan oluşan Quiz çalışması |
 
 
 
 📌 Her gün yeni .ipynb dosyası eklendikçe tablo güncellenecektir.
 
 
-
-
-
-
-
-📁 `Projects`: Dönemsel olarak geliştirilen makine öğrenmesi projeleri  
-📁 `Datasets`: Uygulamalarda kullanılan örnek veri setleri  
-📄 `README.md`: Kurs ve repo hakkında genel bilgi
 
 ---
 
