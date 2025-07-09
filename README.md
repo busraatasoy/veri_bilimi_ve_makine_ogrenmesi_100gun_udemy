@@ -115,6 +115,7 @@ konularında kapsamlı bir gelişim süreci sunar.
 | 3   | [Gün-03](Gun_03.ipynb) | Veri Yapıları (index, slicing, liste, tip dönüşümleri) |
 | 4   | [Gün_04](Gun_04.ipynb) | Sözlük, set, tuple, bool |
 | 5   | [Gün-05](Gun_05.ipynb) | 10 sorudan oluşan Quiz çalışması |
+| 6   | [Gün-06](Gun_06.ipynb) | Kontroller (If, elif, else yapısı) ve Döngüler (for, break, continue, pass yapısı |
 
 
 
