@@ -17,6 +17,29 @@ konularında kapsamlı bir gelişim süreci sunar.
 
 ---
 
+## 🧪 Bu Reponun İçeriği
+- 📄 `README.md`: Kurs ve repo hakkında genel bilgi
+- 📄 `Gun_XX.ipynb`: Günlük notlar ve kod bilgisi
+- 📁 `Projects`: Dönemsel olarak geliştirilen makine öğrenmesi projeleri 
+- 📁 `Datasets`: Uygulamalarda kullanılan örnek veri setleri
+- İçerikler Google Colab ortamında hazırlanmış ve günlük olarak .ipynb formatında GitHub'a aktarılmıştır.
+  
+| Gün | Dosya | Konu |
+|-----|-------|------|
+| 1   | [Gün-01](Gun_01.ipynb) | Bilgisayarların çalışma prensibi, sayı sistemleri, değişkenlere giriş|
+| 2   | [Gün-02](Gun_02.ipynb) | Veri Tipleri (sayı, int, float, string vb.) |
+| 3   | [Gün-03](Gun_03.ipynb) | Veri Yapıları (index, slicing, liste, tip dönüşümleri) |
+| 4   | [Gün_04](Gun_04.ipynb) | Sözlük, set, tuple, bool |
+| 5   | [Gün-05](Gun_05.ipynb) | 10 sorudan oluşan Quiz çalışması |
+| 6   | [Gün-06](Gun_06.ipynb) | Kontroller (If, elif, else yapısı) ve Döngüler (for, break, continue, pass yapısı) |
+| 7   | [Gün-07](Gun_07.ipynb) | Döngüler (while), İleri seviye işlemler(f-string, Built-in Functions, Built-in Module, List Comprehension) |
+
+
+
+📌 Her gün yeni .ipynb dosyası eklendikçe tablo güncellenecektir.
+
+---
+
 ## 📘 Kurs İçeriği (Özet)
 
 ### 🐍 Python Programlama Temelleri
@@ -100,30 +123,6 @@ konularında kapsamlı bir gelişim süreci sunar.
 - Quiz, ödev, mini sınavlarla pekiştirme
 ---
 
-
-## 🧪 Bu Reponun İçeriği
-- 📄 `README.md`: Kurs ve repo hakkında genel bilgi
-- 📄 `Gun_XX.ipynb`: Günlük notlar ve kod bilgisi
-- 📁 `Projects`: Dönemsel olarak geliştirilen makine öğrenmesi projeleri 
-- 📁 `Datasets`: Uygulamalarda kullanılan örnek veri setleri
-- İçerikler Google Colab ortamında hazırlanmış ve günlük olarak .ipynb formatında GitHub'a aktarılmıştır.
-  
-| Gün | Dosya | Konu |
-|-----|-------|------|
-| 1   | [Gün-01](Gun_01.ipynb) | Bilgisayarların çalışma prensibi, sayı sistemleri, değişkenlere giriş|
-| 2   | [Gün-02](Gun_02.ipynb) | Veri Tipleri (sayı, int, float, string vb.) |
-| 3   | [Gün-03](Gun_03.ipynb) | Veri Yapıları (index, slicing, liste, tip dönüşümleri) |
-| 4   | [Gün_04](Gun_04.ipynb) | Sözlük, set, tuple, bool |
-| 5   | [Gün-05](Gun_05.ipynb) | 10 sorudan oluşan Quiz çalışması |
-| 6   | [Gün-06](Gun_06.ipynb) | Kontroller (If, elif, else yapısı) ve Döngüler (for, break, continue, pass yapısı |
-
-
-
-📌 Her gün yeni .ipynb dosyası eklendikçe tablo güncellenecektir.
-
-
-
----
 
 ## 🚀 Hedef
 
