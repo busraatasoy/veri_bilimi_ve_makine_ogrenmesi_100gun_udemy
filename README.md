@@ -34,6 +34,7 @@ konularında kapsamlı bir gelişim süreci sunar.
 | 6   | [Gün-06](Gun_06.ipynb) | Kontroller (If, elif, else yapısı) ve Döngüler (for, break, continue, pass yapısı) |
 | 7   | [Gün-07](Gun_07.ipynb) | Döngüler (while), İleri seviye işlemler(f-string, Built-in Functions, Built-in Module, List Comprehension) |
 | 8   | [Gün-08](Gun_08.ipynb) | 10 sorudan oluşan Quiz-2 çalışması |
+| 9   | [Gün-09](Gun_09.ipynb) | Fonksiyonlar, Map, Filter, Lambda Kullanımı, Fonksiyonel Kapsam (Scope), LEGB Kuralı|
 
 
 
